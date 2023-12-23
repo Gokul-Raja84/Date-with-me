@@ -36,8 +36,6 @@ Found a bug or have a cool idea? Contributions are welcome! Fork the repository,
 
 ### Acknowledgement
 
-- Gokul Raja -
-
 Feel free to add more sections, customize the content, and include images or GIFs that represent your project. Make it uniquely yours and have fun with it !
 
 Eat Pizza 🍕 and Be Safe !
