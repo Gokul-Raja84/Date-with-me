@@ -16,7 +16,7 @@ This is a fun and interactive web project where you get to decide whether you wa
 
 ## Sneak Peek
 
-
+Project Website - [Do you wanna go out with me](https://gokul-raja84.github.io/Date-with-me/) !
 
 ## Getting Started
 
@@ -34,8 +34,10 @@ This is a fun and interactive web project where you get to decide whether you wa
 
 Found a bug or have a cool idea? Contributions are welcome! Fork the repository, make your changes, and submit a pull request.
 
-## Author
+### Acknowledgement
 
-- [Your Name](https://github.com/your-username)
+- Gokul Raja -
 
-Feel free to add more sections, customize the content, and include images or GIFs that represent your project. Make it uniquely yours and have fun with it!
+Feel free to add more sections, customize the content, and include images or GIFs that represent your project. Make it uniquely yours and have fun with it !
+
+Eat Pizza 🍕 and Be Safe !
